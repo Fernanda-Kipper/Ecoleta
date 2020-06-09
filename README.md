@@ -23,3 +23,10 @@ Não é permitido finalizar o cadastro sem preencher os campos corretamente! Ao 
 
 <img src="/public/git_images/done.png" width="60%">
 
+Do lado contrário, se o usuário optou pela busca, deverá inserir o nome da cidade na qual deseja saber se há pontos de coleta.
+
+<img src="/public/git_images/searching.png" width="60%">
+
+Em casos afirmativos, será fornecido para o usuário as informações necessárias das entidades, para que ele realize o descarte. E em casos negativos informaremos a ausência de pontos de coleta nesta região.
+
+<img src="/public/git_images/search.png" width="60%">
