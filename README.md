@@ -1,5 +1,5 @@
 # Ecoleta---NLW
-Esse site foi desenvolvido durante o curso Next Level Week, da Rocketseat, ele tem o objetivo de facilitar o descarte adequeado de resíduos que não devem ser jogados em lixões e a coleta daqueles que podem ser reaproveitados. 
+Esse site foi desenvolvido durante o curso Next Level Week, da Rocketseat. Ele tem o objetivo de facilitar o contato entre entidades e usuários para que o descarte adequeado de resíduos que não devem ser jogados em lixões ocorra e também a coleta daqueles que podem ser reaproveitados. Os seguintes resíduos:
 - Papéis e Papelão;
 - Lâmpadas;
 - Pilhas e Baterias;
