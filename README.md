@@ -15,6 +15,11 @@ Se optar pelo cadastro, ele será redirecionado para uma página onde deverá fo
 
 <img src="/public/git_images/create_point1.png" width="60%">
 
-E em seguida, selecionar quais dos seguintes resíduos ele deseja coletar
+E em seguida, selecionar quais dos seguintes resíduos ele deseja coletar:
 
 <img src="/public/git_images/cre.png" width="60%">
+
+Não é permitido finalizar o cadastro sem preencher os campos corretamente! Ao finalizar, ele será informado da confirmação e redirecionado a página principal logo após.
+
+<img src="/public/git_images/done.png" width="60%">
+
