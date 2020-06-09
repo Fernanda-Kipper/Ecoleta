@@ -30,3 +30,16 @@ Do lado contrário, se o usuário optou pela busca, deverá inserir o nome da ci
 Em casos afirmativos, será fornecido para o usuário as informações necessárias das entidades, para que ele realize o descarte. E em casos negativos informaremos a ausência de pontos de coleta nesta região.
 
 <img src="/public/git_images/search.png" width="60%">
+
+## :warning: Tecnologias Utilizadas
+Durante o curso foram introduzidas diversas tecnologias que auxíliariam na finalização do projeto. As quais são:
+
+[HTML] (https://devdocs.io/html/)
+[CSS] (https://devdocs.io/css/)
+[Javascript] (https://www.javascript.com/)
+[NodeJS] (https://nodejs.org/en/docs/)
+[Express] (https://expressjs.com)
+[Nunjucks] (https://mozilla.github.io/nunjucks/)
+[SQLite3] (https://www.sqlite.org/index.html)
+
+
