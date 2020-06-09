@@ -34,19 +34,19 @@ Em casos afirmativos, será fornecido para o usuário as informações necessár
 ## :warning: Tecnologias Utilizadas
 Durante o curso foram introduzidas diversas tecnologias que auxíliariam na finalização do projeto. As quais são:
 
-[HTML] (https://devdocs.io/html/)
+[HTML](https://devdocs.io/html/)
 
-[CSS] (https://devdocs.io/css/)
+[CSS](https://devdocs.io/css/)
 
-[Javascript] (https://www.javascript.com/)
+[Javascript](https://www.javascript.com/)
 
-[NodeJS] (https://nodejs.org/en/docs/)
+[NodeJS](https://nodejs.org/en/docs/)
 
-[Express] (https://expressjs.com)
+[Express](https://expressjs.com)
 
-[Nunjucks] (https://mozilla.github.io/nunjucks/)
+[Nunjucks](https://mozilla.github.io/nunjucks/)
 
-[SQLite3] (https://www.sqlite.org/index.html)
+[SQLite3](https://www.sqlite.org/index.html)
 
 
 
