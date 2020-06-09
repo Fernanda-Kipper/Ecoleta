@@ -1,0 +1,35 @@
+:root
+{
+    --title-color: #322153;
+    --primary-color: #34cb79;
+}
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html 
+{
+    font-family: 'Lato', sans-serif;
+}
+
+body
+{
+background: #f0f0f5;
+}
+
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Lato', sans-serif;
+    color: var(--title-color);
+}
+
+a
+{
+    text-decoration: none;   
+}
+

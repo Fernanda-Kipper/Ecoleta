@@ -1,0 +1,108 @@
+body::after
+{
+    content: '';
+    position: fixed;
+
+    top: 260px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+
+    background-color: white;
+
+    
+}
+
+#page-search
+{
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#page-search header
+{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#page-search header a
+{
+    color: var(--title-color);
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+
+}
+
+#page-search header a span
+{
+    background-image: url('../assets/arrow-left.svg');
+    width: 20px;
+    height: 24px;
+    margin-right: 16px;
+    display: flex;
+}
+
+main
+{
+    margin: 48px;
+
+}
+
+main h4
+{
+    font-weight: normal;
+    font-family: Roboto, sans-serif;
+
+    margin-bottom: 32px;
+}
+
+main .cards
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+
+}
+
+main .card img
+{
+    width: 90%;
+    height: 150px;
+
+    border-radius: 8px 8px 0 0;
+
+    object-fit: cover;
+}
+
+main .card h1
+{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-size: 36px;
+    line-height: 41px;
+
+}
+
+main .card h3
+{
+    color: var(--primary-color);
+    font-size: 20px;
+    margin-bottom: 8px;
+
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+main .card p
+{
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+}
+
